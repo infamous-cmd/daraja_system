@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daraja Public Accountability Dashboard</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f4f6f9; color: #333; margin: 0; padding: 40px; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        header { border-bottom: 2px solid #e1e4e8; padding-bottom: 20px; margin-bottom: 30px; }
+        h1 { margin: 0; color: #1a365d; font-size: 28px; }
+        .card { background: white; border-radius: 8px; border: 1px solid #e1e4e8; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { text-align: left; padding: 12px; border-bottom: 1px solid #e1e4e8; }
+        th { background: #f8f9fa; color: #4a5568; font-weight: 600; }
+        .badge { display: inline-block; padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; background: #e2e8f0; }
+        .badge-active { background: #feebc8; color: #c05621; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Daraja: Citizen Service Tracking Feed</h1>
+            <p style="color: #718096; margin: 5px 0 0 0;">Uganda Media Centre Evaluation Prototype Node</p>
+        </header>
+
+        <div class="card">
+            <h3>Active Public Infrastructure Logs</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tracking ID</th>
+                        <th>Category</th>
+                        <th>Issue Description</th>
+                        <th>Location</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="feed-table">
+                    <tr><td colspan="5" style="text-align:center; color:#aaa;">Connecting to live cloud node...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // CONFIGURATION: Replace with your actual live Render app web URL link
+        const HOST_NODE = "https://your-daraja-app.onrender.com";
+
+        async function fetchPublicLogs() {
+            try {
+                const response = await fetch(`${HOST_NODE}/api/v1/public/telemetry-feed`);
+                const data = await response.json();
+                const tbody = document.getElementById('feed-table');
+                tbody.innerHTML = '';
+
+                if(data.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;">No public reports synchronized yet.</td></tr>';
+                    return;
+                }
+
+                data.forEach(item => {
+                    const row = `<tr>
+                        <td><strong>${item.tracking_id}</strong></td>
+                        <td><span class="badge">${item.category}</span></td>
+                        <td>${item.description}</td>
+                        <td>${item.location_district}</td>
+                        <td><span class="badge badge-active">${item.status}</span></td>
+                    </tr>`;
+                    tbody.innerHTML += row;
+                });
+            } catch (err) {
+                document.getElementById('feed-table').innerHTML = '<tr><td colspan="5" style="text-align:center; color:red;">Connection interrupted. Re-establishing link to Render web service...</td></tr>';
+            }
+        }
+        setInterval(fetchPublicLogs, 6000); 
+        fetchPublicLogs();
+    </script>
+</body>
+</html>

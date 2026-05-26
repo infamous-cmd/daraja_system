@@ -1,0 +1,11 @@
+# Ignore local database states and cache profiles
+daraja_system.db
+*.db-journal
+__pycache__/
+*.pyc
+
+# Keep environment variables isolated to Render UI panel settings
+.env
+
+# Protect strategic layout templates from tracking leaks
+plu_intel_core.html
