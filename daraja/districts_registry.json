@@ -1,0 +1,3065 @@
+{
+  "country": "Uganda",
+  "total_registered_units": 132,
+  "administration": "Central Audit Node",
+  "registry": {
+    "C01": {
+      "name": "Buikwe",
+      "🚰 Water": {
+        "phone": "+25677201060",
+        "email": "water@buikwe.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677201060",
+        "email": "power@buikwe.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677201060",
+        "email": "works@buikwe.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677201060",
+        "email": "health@buikwe.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999101",
+        "email": "dpc.buikwe@upf.go.ug"
+      }
+    },
+    "C02": {
+      "name": "Bukomansimbi",
+      "🚰 Water": {
+        "phone": "+25677202120",
+        "email": "water@bukomansimbi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677202120",
+        "email": "power@bukomansimbi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677202120",
+        "email": "works@bukomansimbi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677202120",
+        "email": "health@bukomansimbi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999102",
+        "email": "dpc.bukomansimbi@upf.go.ug"
+      }
+    },
+    "C03": {
+      "name": "Butambala",
+      "🚰 Water": {
+        "phone": "+25677203090",
+        "email": "water@butambala.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677203090",
+        "email": "power@butambala.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677203090",
+        "email": "works@butambala.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677203090",
+        "email": "health@butambala.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999103",
+        "email": "dpc.butambala@upf.go.ug"
+      }
+    },
+    "C04": {
+      "name": "Buvuma",
+      "🚰 Water": {
+        "phone": "+25677204060",
+        "email": "water@buvuma.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677204060",
+        "email": "power@buvuma.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677204060",
+        "email": "works@buvuma.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677204060",
+        "email": "health@buvuma.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999104",
+        "email": "dpc.buvuma@upf.go.ug"
+      }
+    },
+    "C05": {
+      "name": "Gomba",
+      "🚰 Water": {
+        "phone": "+25677205050",
+        "email": "water@gomba.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677205050",
+        "email": "power@gomba.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677205050",
+        "email": "works@gomba.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677205050",
+        "email": "health@gomba.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999105",
+        "email": "dpc.gomba@upf.go.ug"
+      }
+    },
+    "C06": {
+      "name": "Kalangala",
+      "🚰 Water": {
+        "phone": "+25677206090",
+        "email": "water@kalangala.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677206090",
+        "email": "power@kalangala.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677206090",
+        "email": "works@kalangala.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677206090",
+        "email": "health@kalangala.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999106",
+        "email": "dpc.kalangala@upf.go.ug"
+      }
+    },
+    "C07": {
+      "name": "Kalungu",
+      "🚰 Water": {
+        "phone": "+25677207070",
+        "email": "water@kalungu.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677207070",
+        "email": "power@kalungu.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677207070",
+        "email": "works@kalungu.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677207070",
+        "email": "health@kalungu.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999107",
+        "email": "dpc.kalungu@upf.go.ug"
+      }
+    },
+    "C08": {
+      "name": "Kampala",
+      "🚰 Water": {
+        "phone": "+25677208070",
+        "email": "water@kampala.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677208070",
+        "email": "power@kampala.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677208070",
+        "email": "works@kampala.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677208070",
+        "email": "health@kampala.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999108",
+        "email": "dpc.kampala@upf.go.ug"
+      }
+    },
+    "C09": {
+      "name": "Kasanda",
+      "🚰 Water": {
+        "phone": "+25677209070",
+        "email": "water@kasanda.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677209070",
+        "email": "power@kasanda.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677209070",
+        "email": "works@kasanda.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677209070",
+        "email": "health@kasanda.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999109",
+        "email": "dpc.kasanda@upf.go.ug"
+      }
+    },
+    "C10": {
+      "name": "Kayunga",
+      "🚰 Water": {
+        "phone": "+25677210070",
+        "email": "water@kayunga.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677210070",
+        "email": "power@kayunga.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677210070",
+        "email": "works@kayunga.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677210070",
+        "email": "health@kayunga.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999110",
+        "email": "dpc.kayunga@upf.go.ug"
+      }
+    },
+    "C11": {
+      "name": "Kiboga",
+      "🚰 Water": {
+        "phone": "+25677211060",
+        "email": "water@kiboga.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677211060",
+        "email": "power@kiboga.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677211060",
+        "email": "works@kiboga.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677211060",
+        "email": "health@kiboga.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999111",
+        "email": "dpc.kiboga@upf.go.ug"
+      }
+    },
+    "C12": {
+      "name": "Kyankwanzi",
+      "🚰 Water": {
+        "phone": "+25677212100",
+        "email": "water@kyankwanzi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677212100",
+        "email": "power@kyankwanzi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677212100",
+        "email": "works@kyankwanzi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677212100",
+        "email": "health@kyankwanzi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999112",
+        "email": "dpc.kyankwanzi@upf.go.ug"
+      }
+    },
+    "C13": {
+      "name": "Kyotera",
+      "🚰 Water": {
+        "phone": "+25677213070",
+        "email": "water@kyotera.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677213070",
+        "email": "power@kyotera.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677213070",
+        "email": "works@kyotera.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677213070",
+        "email": "health@kyotera.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999113",
+        "email": "dpc.kyotera@upf.go.ug"
+      }
+    },
+    "C14": {
+      "name": "Lwengo",
+      "🚰 Water": {
+        "phone": "+25677214060",
+        "email": "water@lwengo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677214060",
+        "email": "power@lwengo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677214060",
+        "email": "works@lwengo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677214060",
+        "email": "health@lwengo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999114",
+        "email": "dpc.lwengo@upf.go.ug"
+      }
+    },
+    "C15": {
+      "name": "Lyantonde",
+      "🚰 Water": {
+        "phone": "+25677215090",
+        "email": "water@lyantonde.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677215090",
+        "email": "power@lyantonde.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677215090",
+        "email": "works@lyantonde.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677215090",
+        "email": "health@lyantonde.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999115",
+        "email": "dpc.lyantonde@upf.go.ug"
+      }
+    },
+    "C16": {
+      "name": "Masaka",
+      "🚰 Water": {
+        "phone": "+25677216060",
+        "email": "water@masaka.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677216060",
+        "email": "power@masaka.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677216060",
+        "email": "works@masaka.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677216060",
+        "email": "health@masaka.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999116",
+        "email": "dpc.masaka@upf.go.ug"
+      }
+    },
+    "C17": {
+      "name": "Mityana",
+      "🚰 Water": {
+        "phone": "+25677217070",
+        "email": "water@mityana.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677217070",
+        "email": "power@mityana.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677217070",
+        "email": "works@mityana.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677217070",
+        "email": "health@mityana.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999117",
+        "email": "dpc.mityana@upf.go.ug"
+      }
+    },
+    "C18": {
+      "name": "Mpigi",
+      "🚰 Water": {
+        "phone": "+25677218050",
+        "email": "water@mpigi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677218050",
+        "email": "power@mpigi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677218050",
+        "email": "works@mpigi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677218050",
+        "email": "health@mpigi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999118",
+        "email": "dpc.mpigi@upf.go.ug"
+      }
+    },
+    "C19": {
+      "name": "Mubende",
+      "🚰 Water": {
+        "phone": "+25677219070",
+        "email": "water@mubende.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677219070",
+        "email": "power@mubende.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677219070",
+        "email": "works@mubende.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677219070",
+        "email": "health@mubende.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999119",
+        "email": "dpc.mubende@upf.go.ug"
+      }
+    },
+    "C20": {
+      "name": "Mukono",
+      "🚰 Water": {
+        "phone": "+25677220060",
+        "email": "water@mukono.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677220060",
+        "email": "power@mukono.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677220060",
+        "email": "works@mukono.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677220060",
+        "email": "health@mukono.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999120",
+        "email": "dpc.mukono@upf.go.ug"
+      }
+    },
+    "C21": {
+      "name": "Nakaseke",
+      "🚰 Water": {
+        "phone": "+25677221080",
+        "email": "water@nakaseke.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677221080",
+        "email": "power@nakaseke.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677221080",
+        "email": "works@nakaseke.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677221080",
+        "email": "health@nakaseke.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999121",
+        "email": "dpc.nakaseke@upf.go.ug"
+      }
+    },
+    "C22": {
+      "name": "Nakasongola",
+      "🚰 Water": {
+        "phone": "+25677222110",
+        "email": "water@nakasongola.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677222110",
+        "email": "power@nakasongola.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677222110",
+        "email": "works@nakasongola.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677222110",
+        "email": "health@nakasongola.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999122",
+        "email": "dpc.nakasongola@upf.go.ug"
+      }
+    },
+    "C23": {
+      "name": "Rakai",
+      "🚰 Water": {
+        "phone": "+25677223050",
+        "email": "water@rakai.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677223050",
+        "email": "power@rakai.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677223050",
+        "email": "works@rakai.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677223050",
+        "email": "health@rakai.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999123",
+        "email": "dpc.rakai@upf.go.ug"
+      }
+    },
+    "C24": {
+      "name": "Sembabule",
+      "🚰 Water": {
+        "phone": "+25677224090",
+        "email": "water@sembabule.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677224090",
+        "email": "power@sembabule.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677224090",
+        "email": "works@sembabule.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677224090",
+        "email": "health@sembabule.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999124",
+        "email": "dpc.sembabule@upf.go.ug"
+      }
+    },
+    "C25": {
+      "name": "Wakiso",
+      "🚰 Water": {
+        "phone": "+25677225060",
+        "email": "water@wakiso.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677225060",
+        "email": "power@wakiso.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677225060",
+        "email": "works@wakiso.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677225060",
+        "email": "health@wakiso.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999125",
+        "email": "dpc.wakiso@upf.go.ug"
+      }
+    },
+    "E01": {
+      "name": "Amuria",
+      "🚰 Water": {
+        "phone": "+25677201060",
+        "email": "water@amuria.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677201060",
+        "email": "power@amuria.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677201060",
+        "email": "works@amuria.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677201060",
+        "email": "health@amuria.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999301",
+        "email": "dpc.amuria@upf.go.ug"
+      }
+    },
+    "E02": {
+      "name": "Budaka",
+      "🚰 Water": {
+        "phone": "+25677202060",
+        "email": "water@budaka.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677202060",
+        "email": "power@budaka.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677202060",
+        "email": "works@budaka.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677202060",
+        "email": "health@budaka.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999302",
+        "email": "dpc.budaka@upf.go.ug"
+      }
+    },
+    "E03": {
+      "name": "Bududa",
+      "🚰 Water": {
+        "phone": "+25677203060",
+        "email": "water@bududa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677203060",
+        "email": "power@bududa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677203060",
+        "email": "works@bududa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677203060",
+        "email": "health@bududa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999303",
+        "email": "dpc.bududa@upf.go.ug"
+      }
+    },
+    "E04": {
+      "name": "Bugiri",
+      "🚰 Water": {
+        "phone": "+25677204060",
+        "email": "water@bugiri.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677204060",
+        "email": "power@bugiri.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677204060",
+        "email": "works@bugiri.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677204060",
+        "email": "health@bugiri.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999304",
+        "email": "dpc.bugiri@upf.go.ug"
+      }
+    },
+    "E05": {
+      "name": "Bugweri",
+      "🚰 Water": {
+        "phone": "+25677205070",
+        "email": "water@bugweri.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677205070",
+        "email": "power@bugweri.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677205070",
+        "email": "works@bugweri.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677205070",
+        "email": "health@bugweri.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999305",
+        "email": "dpc.bugweri@upf.go.ug"
+      }
+    },
+    "E06": {
+      "name": "Bukedea",
+      "🚰 Water": {
+        "phone": "+25677206070",
+        "email": "water@bukedea.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677206070",
+        "email": "power@bukedea.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677206070",
+        "email": "works@bukedea.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677206070",
+        "email": "health@bukedea.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999306",
+        "email": "dpc.bukedea@upf.go.ug"
+      }
+    },
+    "E07": {
+      "name": "Bukwo",
+      "🚰 Water": {
+        "phone": "+25677207050",
+        "email": "water@bukwo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677207050",
+        "email": "power@bukwo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677207050",
+        "email": "works@bukwo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677207050",
+        "email": "health@bukwo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999307",
+        "email": "dpc.bukwo@upf.go.ug"
+      }
+    },
+    "E08": {
+      "name": "Bulambuli",
+      "🚰 Water": {
+        "phone": "+25677208090",
+        "email": "water@bulambuli.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677208090",
+        "email": "power@bulambuli.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677208090",
+        "email": "works@bulambuli.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677208090",
+        "email": "health@bulambuli.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999308",
+        "email": "dpc.bulambuli@upf.go.ug"
+      }
+    },
+    "E09": {
+      "name": "Busia",
+      "🚰 Water": {
+        "phone": "+25677209050",
+        "email": "water@busia.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677209050",
+        "email": "power@busia.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677209050",
+        "email": "works@busia.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677209050",
+        "email": "health@busia.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999309",
+        "email": "dpc.busia@upf.go.ug"
+      }
+    },
+    "E10": {
+      "name": "Butaleja",
+      "🚰 Water": {
+        "phone": "+25677210080",
+        "email": "water@butaleja.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677210080",
+        "email": "power@butaleja.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677210080",
+        "email": "works@butaleja.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677210080",
+        "email": "health@butaleja.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999310",
+        "email": "dpc.butaleja@upf.go.ug"
+      }
+    },
+    "E11": {
+      "name": "Butebo",
+      "🚰 Water": {
+        "phone": "+25677211060",
+        "email": "water@butebo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677211060",
+        "email": "power@butebo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677211060",
+        "email": "works@butebo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677211060",
+        "email": "health@butebo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999311",
+        "email": "dpc.butebo@upf.go.ug"
+      }
+    },
+    "E12": {
+      "name": "Buyende",
+      "🚰 Water": {
+        "phone": "+25677212070",
+        "email": "water@buyende.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677212070",
+        "email": "power@buyende.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677212070",
+        "email": "works@buyende.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677212070",
+        "email": "health@buyende.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999312",
+        "email": "dpc.buyende@upf.go.ug"
+      }
+    },
+    "E13": {
+      "name": "Iganga",
+      "🚰 Water": {
+        "phone": "+25677213060",
+        "email": "water@iganga.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677213060",
+        "email": "power@iganga.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677213060",
+        "email": "works@iganga.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677213060",
+        "email": "health@iganga.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999313",
+        "email": "dpc.iganga@upf.go.ug"
+      }
+    },
+    "E14": {
+      "name": "Jinja",
+      "🚰 Water": {
+        "phone": "+25677214050",
+        "email": "water@jinja.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677214050",
+        "email": "power@jinja.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677214050",
+        "email": "works@jinja.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677214050",
+        "email": "health@jinja.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999314",
+        "email": "dpc.jinja@upf.go.ug"
+      }
+    },
+    "E15": {
+      "name": "Kaberamaido",
+      "🚰 Water": {
+        "phone": "+25677215110",
+        "email": "water@kaberamaido.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677215110",
+        "email": "power@kaberamaido.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677215110",
+        "email": "works@kaberamaido.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677215110",
+        "email": "health@kaberamaido.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999315",
+        "email": "dpc.kaberamaido@upf.go.ug"
+      }
+    },
+    "E16": {
+      "name": "Kalaki",
+      "🚰 Water": {
+        "phone": "+25677216060",
+        "email": "water@kalaki.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677216060",
+        "email": "power@kalaki.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677216060",
+        "email": "works@kalaki.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677216060",
+        "email": "health@kalaki.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999316",
+        "email": "dpc.kalaki@upf.go.ug"
+      }
+    },
+    "E17": {
+      "name": "Kamuli",
+      "🚰 Water": {
+        "phone": "+25677217060",
+        "email": "water@kamuli.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677217060",
+        "email": "power@kamuli.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677217060",
+        "email": "works@kamuli.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677217060",
+        "email": "health@kamuli.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999317",
+        "email": "dpc.kamuli@upf.go.ug"
+      }
+    },
+    "E18": {
+      "name": "Kapchorwa",
+      "🚰 Water": {
+        "phone": "+25677218090",
+        "email": "water@kapchorwa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677218090",
+        "email": "power@kapchorwa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677218090",
+        "email": "works@kapchorwa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677218090",
+        "email": "health@kapchorwa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999318",
+        "email": "dpc.kapchorwa@upf.go.ug"
+      }
+    },
+    "E19": {
+      "name": "Katakwi",
+      "🚰 Water": {
+        "phone": "+25677219070",
+        "email": "water@katakwi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677219070",
+        "email": "power@katakwi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677219070",
+        "email": "works@katakwi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677219070",
+        "email": "health@katakwi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999319",
+        "email": "dpc.katakwi@upf.go.ug"
+      }
+    },
+    "E20": {
+      "name": "Kibuuku",
+      "🚰 Water": {
+        "phone": "+25677220070",
+        "email": "water@kibuuku.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677220070",
+        "email": "power@kibuuku.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677220070",
+        "email": "works@kibuuku.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677220070",
+        "email": "health@kibuuku.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999320",
+        "email": "dpc.kibuuku@upf.go.ug"
+      }
+    },
+    "E21": {
+      "name": "Kumi",
+      "🚰 Water": {
+        "phone": "+25677221040",
+        "email": "water@kumi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677221040",
+        "email": "power@kumi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677221040",
+        "email": "works@kumi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677221040",
+        "email": "health@kumi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999321",
+        "email": "dpc.kumi@upf.go.ug"
+      }
+    },
+    "E22": {
+      "name": "Kween",
+      "🚰 Water": {
+        "phone": "+25677222050",
+        "email": "water@kween.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677222050",
+        "email": "power@kween.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677222050",
+        "email": "works@kween.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677222050",
+        "email": "health@kween.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999322",
+        "email": "dpc.kween@upf.go.ug"
+      }
+    },
+    "E23": {
+      "name": "Luuka",
+      "🚰 Water": {
+        "phone": "+25677223050",
+        "email": "water@luuka.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677223050",
+        "email": "power@luuka.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677223050",
+        "email": "works@luuka.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677223050",
+        "email": "health@luuka.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999323",
+        "email": "dpc.luuka@upf.go.ug"
+      }
+    },
+    "E24": {
+      "name": "Manafwa",
+      "🚰 Water": {
+        "phone": "+25677224070",
+        "email": "water@manafwa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677224070",
+        "email": "power@manafwa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677224070",
+        "email": "works@manafwa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677224070",
+        "email": "health@manafwa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999324",
+        "email": "dpc.manafwa@upf.go.ug"
+      }
+    },
+    "E25": {
+      "name": "Mayuge",
+      "🚰 Water": {
+        "phone": "+25677225060",
+        "email": "water@mayuge.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677225060",
+        "email": "power@mayuge.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677225060",
+        "email": "works@mayuge.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677225060",
+        "email": "health@mayuge.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999325",
+        "email": "dpc.mayuge@upf.go.ug"
+      }
+    },
+    "E26": {
+      "name": "Mbale",
+      "🚰 Water": {
+        "phone": "+25677226050",
+        "email": "water@mbale.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677226050",
+        "email": "power@mbale.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677226050",
+        "email": "works@mbale.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677226050",
+        "email": "health@mbale.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999326",
+        "email": "dpc.mbale@upf.go.ug"
+      }
+    },
+    "E27": {
+      "name": "Namisindwa",
+      "🚰 Water": {
+        "phone": "+25677227100",
+        "email": "water@namisindwa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677227100",
+        "email": "power@namisindwa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677227100",
+        "email": "works@namisindwa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677227100",
+        "email": "health@namisindwa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999327",
+        "email": "dpc.namisindwa@upf.go.ug"
+      }
+    },
+    "E28": {
+      "name": "Namutumba",
+      "🚰 Water": {
+        "phone": "+25677228090",
+        "email": "water@namutumba.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677228090",
+        "email": "power@namutumba.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677228090",
+        "email": "works@namutumba.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677228090",
+        "email": "health@namutumba.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999328",
+        "email": "dpc.namutumba@upf.go.ug"
+      }
+    },
+    "E29": {
+      "name": "Ngora",
+      "🚰 Water": {
+        "phone": "+25677229050",
+        "email": "water@ngora.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677229050",
+        "email": "power@ngora.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677229050",
+        "email": "works@ngora.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677229050",
+        "email": "health@ngora.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999329",
+        "email": "dpc.ngora@upf.go.ug"
+      }
+    },
+    "E30": {
+      "name": "Pallisa",
+      "🚰 Water": {
+        "phone": "+25677230070",
+        "email": "water@pallisa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677230070",
+        "email": "power@pallisa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677230070",
+        "email": "works@pallisa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677230070",
+        "email": "health@pallisa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999330",
+        "email": "dpc.pallisa@upf.go.ug"
+      }
+    },
+    "E31": {
+      "name": "Serere",
+      "🚰 Water": {
+        "phone": "+25677231060",
+        "email": "water@serere.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677231060",
+        "email": "power@serere.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677231060",
+        "email": "works@serere.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677231060",
+        "email": "health@serere.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999331",
+        "email": "dpc.serere@upf.go.ug"
+      }
+    },
+    "E32": {
+      "name": "Sironko",
+      "🚰 Water": {
+        "phone": "+25677232070",
+        "email": "water@sironko.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677232070",
+        "email": "power@sironko.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677232070",
+        "email": "works@sironko.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677232070",
+        "email": "health@sironko.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999332",
+        "email": "dpc.sironko@upf.go.ug"
+      }
+    },
+    "E33": {
+      "name": "Soroti",
+      "🚰 Water": {
+        "phone": "+25677233060",
+        "email": "water@soroti.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677233060",
+        "email": "power@soroti.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677233060",
+        "email": "works@soroti.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677233060",
+        "email": "health@soroti.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999333",
+        "email": "dpc.soroti@upf.go.ug"
+      }
+    },
+    "E34": {
+      "name": "Tororo",
+      "🚰 Water": {
+        "phone": "+25677234060",
+        "email": "water@tororo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677234060",
+        "email": "power@tororo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677234060",
+        "email": "works@tororo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677234060",
+        "email": "health@tororo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999334",
+        "email": "dpc.tororo@upf.go.ug"
+      }
+    },
+    "W01": {
+      "name": "Buhweju",
+      "🚰 Water": {
+        "phone": "+25677201070",
+        "email": "water@buhweju.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677201070",
+        "email": "power@buhweju.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677201070",
+        "email": "works@buhweju.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677201070",
+        "email": "health@buhweju.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999301",
+        "email": "dpc.buhweju@upf.go.ug"
+      }
+    },
+    "W02": {
+      "name": "Buliisa",
+      "🚰 Water": {
+        "phone": "+25677202070",
+        "email": "water@buliisa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677202070",
+        "email": "power@buliisa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677202070",
+        "email": "works@buliisa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677202070",
+        "email": "health@buliisa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999302",
+        "email": "dpc.buliisa@upf.go.ug"
+      }
+    },
+    "W03": {
+      "name": "Bundibugyo",
+      "🚰 Water": {
+        "phone": "+25677203100",
+        "email": "water@bundibugyo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677203100",
+        "email": "power@bundibugyo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677203100",
+        "email": "works@bundibugyo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677203100",
+        "email": "health@bundibugyo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999303",
+        "email": "dpc.bundibugyo@upf.go.ug"
+      }
+    },
+    "W04": {
+      "name": "Bunyangabu",
+      "🚰 Water": {
+        "phone": "+25677204100",
+        "email": "water@bunyangabu.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677204100",
+        "email": "power@bunyangabu.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677204100",
+        "email": "works@bunyangabu.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677204100",
+        "email": "health@bunyangabu.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999304",
+        "email": "dpc.bunyangabu@upf.go.ug"
+      }
+    },
+    "W05": {
+      "name": "Bushenyi",
+      "🚰 Water": {
+        "phone": "+25677205080",
+        "email": "water@bushenyi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677205080",
+        "email": "power@bushenyi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677205080",
+        "email": "works@bushenyi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677205080",
+        "email": "health@bushenyi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999305",
+        "email": "dpc.bushenyi@upf.go.ug"
+      }
+    },
+    "W06": {
+      "name": "Hoima",
+      "🚰 Water": {
+        "phone": "+25677206050",
+        "email": "water@hoima.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677206050",
+        "email": "power@hoima.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677206050",
+        "email": "works@hoima.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677206050",
+        "email": "health@hoima.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999306",
+        "email": "dpc.hoima@upf.go.ug"
+      }
+    },
+    "W07": {
+      "name": "Ibanda",
+      "🚰 Water": {
+        "phone": "+25677207060",
+        "email": "water@ibanda.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677207060",
+        "email": "power@ibanda.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677207060",
+        "email": "works@ibanda.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677207060",
+        "email": "health@ibanda.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999307",
+        "email": "dpc.ibanda@upf.go.ug"
+      }
+    },
+    "W08": {
+      "name": "Isingiro",
+      "🚰 Water": {
+        "phone": "+25677208080",
+        "email": "water@isingiro.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677208080",
+        "email": "power@isingiro.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677208080",
+        "email": "works@isingiro.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677208080",
+        "email": "health@isingiro.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999308",
+        "email": "dpc.isingiro@upf.go.ug"
+      }
+    },
+    "W09": {
+      "name": "Kabaale",
+      "🚰 Water": {
+        "phone": "+25677209070",
+        "email": "water@kabaale.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677209070",
+        "email": "power@kabaale.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677209070",
+        "email": "works@kabaale.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677209070",
+        "email": "health@kabaale.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999309",
+        "email": "dpc.kabaale@upf.go.ug"
+      }
+    },
+    "W10": {
+      "name": "Kabarole",
+      "🚰 Water": {
+        "phone": "+25677210080",
+        "email": "water@kabarole.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677210080",
+        "email": "power@kabarole.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677210080",
+        "email": "works@kabarole.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677210080",
+        "email": "health@kabarole.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999310",
+        "email": "dpc.kabarole@upf.go.ug"
+      }
+    },
+    "W11": {
+      "name": "Kadiima",
+      "🚰 Water": {
+        "phone": "+25677211070",
+        "email": "water@kadiima.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677211070",
+        "email": "power@kadiima.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677211070",
+        "email": "works@kadiima.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677211070",
+        "email": "health@kadiima.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999311",
+        "email": "dpc.kadiima@upf.go.ug"
+      }
+    },
+    "W12": {
+      "name": "Kagadi",
+      "🚰 Water": {
+        "phone": "+25677212060",
+        "email": "water@kagadi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677212060",
+        "email": "power@kagadi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677212060",
+        "email": "works@kagadi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677212060",
+        "email": "health@kagadi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999312",
+        "email": "dpc.kagadi@upf.go.ug"
+      }
+    },
+    "W13": {
+      "name": "Kakumiro",
+      "🚰 Water": {
+        "phone": "+25677213080",
+        "email": "water@kakumiro.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677213080",
+        "email": "power@kakumiro.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677213080",
+        "email": "works@kakumiro.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677213080",
+        "email": "health@kakumiro.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999313",
+        "email": "dpc.kakumiro@upf.go.ug"
+      }
+    },
+    "W14": {
+      "name": "Kamwenge",
+      "🚰 Water": {
+        "phone": "+25677214080",
+        "email": "water@kamwenge.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677214080",
+        "email": "power@kamwenge.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677214080",
+        "email": "works@kamwenge.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677214080",
+        "email": "health@kamwenge.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999314",
+        "email": "dpc.kamwenge@upf.go.ug"
+      }
+    },
+    "W15": {
+      "name": "Kanungu",
+      "🚰 Water": {
+        "phone": "+25677215070",
+        "email": "water@kanungu.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677215070",
+        "email": "power@kanungu.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677215070",
+        "email": "works@kanungu.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677215070",
+        "email": "health@kanungu.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999315",
+        "email": "dpc.kanungu@upf.go.ug"
+      }
+    },
+    "W16": {
+      "name": "Kasese",
+      "🚰 Water": {
+        "phone": "+25677216060",
+        "email": "water@kasese.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677216060",
+        "email": "power@kasese.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677216060",
+        "email": "works@kasese.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677216060",
+        "email": "health@kasese.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999316",
+        "email": "dpc.kasese@upf.go.ug"
+      }
+    },
+    "W17": {
+      "name": "Kibaale",
+      "🚰 Water": {
+        "phone": "+25677217070",
+        "email": "water@kibaale.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677217070",
+        "email": "power@kibaale.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677217070",
+        "email": "works@kibaale.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677217070",
+        "email": "health@kibaale.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999317",
+        "email": "dpc.kibaale@upf.go.ug"
+      }
+    },
+    "W18": {
+      "name": "Kikuube",
+      "🚰 Water": {
+        "phone": "+25677218070",
+        "email": "water@kikuube.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677218070",
+        "email": "power@kikuube.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677218070",
+        "email": "works@kikuube.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677218070",
+        "email": "health@kikuube.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999318",
+        "email": "dpc.kikuube@upf.go.ug"
+      }
+    },
+    "W19": {
+      "name": "Kiruhura",
+      "🚰 Water": {
+        "phone": "+25677219080",
+        "email": "water@kiruhura.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677219080",
+        "email": "power@kiruhura.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677219080",
+        "email": "works@kiruhura.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677219080",
+        "email": "health@kiruhura.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999319",
+        "email": "dpc.kiruhura@upf.go.ug"
+      }
+    },
+    "W20": {
+      "name": "Kiryandongo",
+      "🚰 Water": {
+        "phone": "+25677220110",
+        "email": "water@kiryandongo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677220110",
+        "email": "power@kiryandongo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677220110",
+        "email": "works@kiryandongo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677220110",
+        "email": "health@kiryandongo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999320",
+        "email": "dpc.kiryandongo@upf.go.ug"
+      }
+    },
+    "W21": {
+      "name": "Kisoro",
+      "🚰 Water": {
+        "phone": "+25677221060",
+        "email": "water@kisoro.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677221060",
+        "email": "power@kisoro.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677221060",
+        "email": "works@kisoro.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677221060",
+        "email": "health@kisoro.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999321",
+        "email": "dpc.kisoro@upf.go.ug"
+      }
+    },
+    "W22": {
+      "name": "Kitagwenda",
+      "🚰 Water": {
+        "phone": "+25677222100",
+        "email": "water@kitagwenda.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677222100",
+        "email": "power@kitagwenda.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677222100",
+        "email": "works@kitagwenda.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677222100",
+        "email": "health@kitagwenda.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999322",
+        "email": "dpc.kitagwenda@upf.go.ug"
+      }
+    },
+    "W23": {
+      "name": "Kyegegwa",
+      "🚰 Water": {
+        "phone": "+25677223080",
+        "email": "water@kyegegwa.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677223080",
+        "email": "power@kyegegwa.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677223080",
+        "email": "works@kyegegwa.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677223080",
+        "email": "health@kyegegwa.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999323",
+        "email": "dpc.kyegegwa@upf.go.ug"
+      }
+    },
+    "W24": {
+      "name": "Kyenjojo",
+      "🚰 Water": {
+        "phone": "+25677224080",
+        "email": "water@kyenjojo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677224080",
+        "email": "power@kyenjojo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677224080",
+        "email": "works@kyenjojo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677224080",
+        "email": "health@kyenjojo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999324",
+        "email": "dpc.kyenjojo@upf.go.ug"
+      }
+    },
+    "W25": {
+      "name": "Masindi",
+      "🚰 Water": {
+        "phone": "+25677225070",
+        "email": "water@masindi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677225070",
+        "email": "power@masindi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677225070",
+        "email": "works@masindi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677225070",
+        "email": "health@masindi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999325",
+        "email": "dpc.masindi@upf.go.ug"
+      }
+    },
+    "W26": {
+      "name": "Mbarara",
+      "🚰 Water": {
+        "phone": "+25677226070",
+        "email": "water@mbarara.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677226070",
+        "email": "power@mbarara.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677226070",
+        "email": "works@mbarara.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677226070",
+        "email": "health@mbarara.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999326",
+        "email": "dpc.mbarara@upf.go.ug"
+      }
+    },
+    "W27": {
+      "name": "Mitooma",
+      "🚰 Water": {
+        "phone": "+25677227070",
+        "email": "water@mitooma.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677227070",
+        "email": "power@mitooma.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677227070",
+        "email": "works@mitooma.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677227070",
+        "email": "health@mitooma.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999327",
+        "email": "dpc.mitooma@upf.go.ug"
+      }
+    },
+    "W28": {
+      "name": "Ntoroko",
+      "🚰 Water": {
+        "phone": "+25677228070",
+        "email": "water@ntoroko.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677228070",
+        "email": "power@ntoroko.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677228070",
+        "email": "works@ntoroko.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677228070",
+        "email": "health@ntoroko.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999328",
+        "email": "dpc.ntoroko@upf.go.ug"
+      }
+    },
+    "W29": {
+      "name": "Ntungamo",
+      "🚰 Water": {
+        "phone": "+25677229080",
+        "email": "water@ntungamo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677229080",
+        "email": "power@ntungamo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677229080",
+        "email": "works@ntungamo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677229080",
+        "email": "health@ntungamo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999329",
+        "email": "dpc.ntungamo@upf.go.ug"
+      }
+    },
+    "W30": {
+      "name": "Rubanda",
+      "🚰 Water": {
+        "phone": "+25677230070",
+        "email": "water@rubanda.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677230070",
+        "email": "power@rubanda.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677230070",
+        "email": "works@rubanda.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677230070",
+        "email": "health@rubanda.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999330",
+        "email": "dpc.rubanda@upf.go.ug"
+      }
+    },
+    "W31": {
+      "name": "Rubirizi",
+      "🚰 Water": {
+        "phone": "+25677231080",
+        "email": "water@rubirizi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677231080",
+        "email": "power@rubirizi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677231080",
+        "email": "works@rubirizi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677231080",
+        "email": "health@rubirizi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999331",
+        "email": "dpc.rubirizi@upf.go.ug"
+      }
+    },
+    "W32": {
+      "name": "Rukiga",
+      "🚰 Water": {
+        "phone": "+25677232060",
+        "email": "water@rukiga.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677232060",
+        "email": "power@rukiga.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677232060",
+        "email": "works@rukiga.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677232060",
+        "email": "health@rukiga.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999332",
+        "email": "dpc.rukiga@upf.go.ug"
+      }
+    },
+    "W33": {
+      "name": "Rukungiri",
+      "🚰 Water": {
+        "phone": "+25677233090",
+        "email": "water@rukungiri.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677233090",
+        "email": "power@rukungiri.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677233090",
+        "email": "works@rukungiri.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677233090",
+        "email": "health@rukungiri.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999333",
+        "email": "dpc.rukungiri@upf.go.ug"
+      }
+    },
+    "W34": {
+      "name": "Sheema",
+      "🚰 Water": {
+        "phone": "+25677234060",
+        "email": "water@sheema.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677234060",
+        "email": "power@sheema.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677234060",
+        "email": "works@sheema.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677234060",
+        "email": "health@sheema.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999334",
+        "email": "dpc.sheema@upf.go.ug"
+      }
+    },
+    "N01": {
+      "name": "Abim",
+      "🚰 Water": {
+        "phone": "+25677201040",
+        "email": "water@abim.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677201040",
+        "email": "power@abim.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677201040",
+        "email": "works@abim.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677201040",
+        "email": "health@abim.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999301",
+        "email": "dpc.abim@upf.go.ug"
+      }
+    },
+    "N02": {
+      "name": "Adjumani",
+      "🚰 Water": {
+        "phone": "+25677202080",
+        "email": "water@adjumani.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677202080",
+        "email": "power@adjumani.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677202080",
+        "email": "works@adjumani.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677202080",
+        "email": "health@adjumani.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999302",
+        "email": "dpc.adjumani@upf.go.ug"
+      }
+    },
+    "N03": {
+      "name": "Agago",
+      "🚰 Water": {
+        "phone": "+25677203050",
+        "email": "water@agago.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677203050",
+        "email": "power@agago.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677203050",
+        "email": "works@agago.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677203050",
+        "email": "health@agago.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999303",
+        "email": "dpc.agago@upf.go.ug"
+      }
+    },
+    "N04": {
+      "name": "Alebtong",
+      "🚰 Water": {
+        "phone": "+25677204080",
+        "email": "water@alebtong.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677204080",
+        "email": "power@alebtong.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677204080",
+        "email": "works@alebtong.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677204080",
+        "email": "health@alebtong.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999304",
+        "email": "dpc.alebtong@upf.go.ug"
+      }
+    },
+    "N05": {
+      "name": "Amolatar",
+      "🚰 Water": {
+        "phone": "+25677205080",
+        "email": "water@amolatar.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677205080",
+        "email": "power@amolatar.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677205080",
+        "email": "works@amolatar.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677205080",
+        "email": "health@amolatar.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999305",
+        "email": "dpc.amolatar@upf.go.ug"
+      }
+    },
+    "N06": {
+      "name": "Amudat",
+      "🚰 Water": {
+        "phone": "+25677206060",
+        "email": "water@amudat.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677206060",
+        "email": "power@amudat.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677206060",
+        "email": "works@amudat.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677206060",
+        "email": "health@amudat.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999306",
+        "email": "dpc.amudat@upf.go.ug"
+      }
+    },
+    "N07": {
+      "name": "Amuru",
+      "🚰 Water": {
+        "phone": "+25677207050",
+        "email": "water@amuru.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677207050",
+        "email": "power@amuru.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677207050",
+        "email": "works@amuru.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677207050",
+        "email": "health@amuru.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999307",
+        "email": "dpc.amuru@upf.go.ug"
+      }
+    },
+    "N08": {
+      "name": "Apac",
+      "🚰 Water": {
+        "phone": "+25677208040",
+        "email": "water@apac.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677208040",
+        "email": "power@apac.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677208040",
+        "email": "works@apac.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677208040",
+        "email": "health@apac.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999308",
+        "email": "dpc.apac@upf.go.ug"
+      }
+    },
+    "N09": {
+      "name": "Arua",
+      "🚰 Water": {
+        "phone": "+25677209040",
+        "email": "water@arua.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677209040",
+        "email": "power@arua.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677209040",
+        "email": "works@arua.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677209040",
+        "email": "health@arua.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999309",
+        "email": "dpc.arua@upf.go.ug"
+      }
+    },
+    "N10": {
+      "name": "Dokolo",
+      "🚰 Water": {
+        "phone": "+25677210060",
+        "email": "water@dokolo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677210060",
+        "email": "power@dokolo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677210060",
+        "email": "works@dokolo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677210060",
+        "email": "health@dokolo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999310",
+        "email": "dpc.dokolo@upf.go.ug"
+      }
+    },
+    "N11": {
+      "name": "Gulu",
+      "🚰 Water": {
+        "phone": "+25677211040",
+        "email": "water@gulu.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677211040",
+        "email": "power@gulu.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677211040",
+        "email": "works@gulu.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677211040",
+        "email": "health@gulu.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999311",
+        "email": "dpc.gulu@upf.go.ug"
+      }
+    },
+    "N12": {
+      "name": "Kaabong",
+      "🚰 Water": {
+        "phone": "+25677212070",
+        "email": "water@kaabong.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677212070",
+        "email": "power@kaabong.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677212070",
+        "email": "works@kaabong.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677212070",
+        "email": "health@kaabong.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999312",
+        "email": "dpc.kaabong@upf.go.ug"
+      }
+    },
+    "N13": {
+      "name": "Kapelebyong",
+      "🚰 Water": {
+        "phone": "+25677213110",
+        "email": "water@kapelebyong.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677213110",
+        "email": "power@kapelebyong.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677213110",
+        "email": "works@kapelebyong.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677213110",
+        "email": "health@kapelebyong.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999313",
+        "email": "dpc.kapelebyong@upf.go.ug"
+      }
+    },
+    "N14": {
+      "name": "Karenga",
+      "🚰 Water": {
+        "phone": "+25677214070",
+        "email": "water@karenga.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677214070",
+        "email": "power@karenga.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677214070",
+        "email": "works@karenga.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677214070",
+        "email": "health@karenga.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999314",
+        "email": "dpc.karenga@upf.go.ug"
+      }
+    },
+    "N15": {
+      "name": "Kitgum",
+      "🚰 Water": {
+        "phone": "+25677215060",
+        "email": "water@kitgum.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677215060",
+        "email": "power@kitgum.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677215060",
+        "email": "works@kitgum.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677215060",
+        "email": "health@kitgum.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999315",
+        "email": "dpc.kitgum@upf.go.ug"
+      }
+    },
+    "N16": {
+      "name": "Koboko",
+      "🚰 Water": {
+        "phone": "+25677216060",
+        "email": "water@koboko.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677216060",
+        "email": "power@koboko.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677216060",
+        "email": "works@koboko.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677216060",
+        "email": "health@koboko.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999316",
+        "email": "dpc.koboko@upf.go.ug"
+      }
+    },
+    "N17": {
+      "name": "Kotido",
+      "🚰 Water": {
+        "phone": "+25677217060",
+        "email": "water@kotido.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677217060",
+        "email": "power@kotido.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677217060",
+        "email": "works@kotido.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677217060",
+        "email": "health@kotido.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999317",
+        "email": "dpc.kotido@upf.go.ug"
+      }
+    },
+    "N18": {
+      "name": "Kwania",
+      "🚰 Water": {
+        "phone": "+25677218060",
+        "email": "water@kwania.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677218060",
+        "email": "power@kwania.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677218060",
+        "email": "works@kwania.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677218060",
+        "email": "health@kwania.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999318",
+        "email": "dpc.kwania@upf.go.ug"
+      }
+    },
+    "N19": {
+      "name": "Lamwo",
+      "🚰 Water": {
+        "phone": "+25677219050",
+        "email": "water@lamwo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677219050",
+        "email": "power@lamwo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677219050",
+        "email": "works@lamwo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677219050",
+        "email": "health@lamwo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999319",
+        "email": "dpc.lamwo@upf.go.ug"
+      }
+    },
+    "N20": {
+      "name": "Lira",
+      "🚰 Water": {
+        "phone": "+25677220040",
+        "email": "water@lira.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677220040",
+        "email": "power@lira.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677220040",
+        "email": "works@lira.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677220040",
+        "email": "health@lira.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999320",
+        "email": "dpc.lira@upf.go.ug"
+      }
+    },
+    "N21": {
+      "name": "Madi-Okollo",
+      "🚰 Water": {
+        "phone": "+25677221110",
+        "email": "water@madi-okollo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677221110",
+        "email": "power@madi-okollo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677221110",
+        "email": "works@madi-okollo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677221110",
+        "email": "health@madi-okollo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999321",
+        "email": "dpc.madi-okollo@upf.go.ug"
+      }
+    },
+    "N22": {
+      "name": "Maracha",
+      "🚰 Water": {
+        "phone": "+25677222070",
+        "email": "water@maracha.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677222070",
+        "email": "power@maracha.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677222070",
+        "email": "works@maracha.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677222070",
+        "email": "health@maracha.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999322",
+        "email": "dpc.maracha@upf.go.ug"
+      }
+    },
+    "N23": {
+      "name": "Moroto",
+      "🚰 Water": {
+        "phone": "+25677223060",
+        "email": "water@moroto.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677223060",
+        "email": "power@moroto.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677223060",
+        "email": "works@moroto.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677223060",
+        "email": "health@moroto.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999323",
+        "email": "dpc.moroto@upf.go.ug"
+      }
+    },
+    "N24": {
+      "name": "Moyo",
+      "🚰 Water": {
+        "phone": "+25677224040",
+        "email": "water@moyo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677224040",
+        "email": "power@moyo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677224040",
+        "email": "works@moyo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677224040",
+        "email": "health@moyo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999324",
+        "email": "dpc.moyo@upf.go.ug"
+      }
+    },
+    "N25": {
+      "name": "Nabilatuk",
+      "🚰 Water": {
+        "phone": "+25677225090",
+        "email": "water@nabilatuk.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677225090",
+        "email": "power@nabilatuk.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677225090",
+        "email": "works@nabilatuk.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677225090",
+        "email": "health@nabilatuk.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999325",
+        "email": "dpc.nabilatuk@upf.go.ug"
+      }
+    },
+    "N26": {
+      "name": "Nakapiripirit",
+      "🚰 Water": {
+        "phone": "+25677226130",
+        "email": "water@nakapiripirit.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677226130",
+        "email": "power@nakapiripirit.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677226130",
+        "email": "works@nakapiripirit.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677226130",
+        "email": "health@nakapiripirit.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999326",
+        "email": "dpc.nakapiripirit@upf.go.ug"
+      }
+    },
+    "N27": {
+      "name": "Napak",
+      "🚰 Water": {
+        "phone": "+25677227050",
+        "email": "water@napak.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677227050",
+        "email": "power@napak.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677227050",
+        "email": "works@napak.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677227050",
+        "email": "health@napak.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999327",
+        "email": "dpc.napak@upf.go.ug"
+      }
+    },
+    "N28": {
+      "name": "Nebbi",
+      "🚰 Water": {
+        "phone": "+25677228050",
+        "email": "water@nebbi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677228050",
+        "email": "power@nebbi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677228050",
+        "email": "works@nebbi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677228050",
+        "email": "health@nebbi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999328",
+        "email": "dpc.nebbi@upf.go.ug"
+      }
+    },
+    "N29": {
+      "name": "Nwoya",
+      "🚰 Water": {
+        "phone": "+25677229050",
+        "email": "water@nwoya.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677229050",
+        "email": "power@nwoya.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677229050",
+        "email": "works@nwoya.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677229050",
+        "email": "health@nwoya.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999329",
+        "email": "dpc.nwoya@upf.go.ug"
+      }
+    },
+    "N30": {
+      "name": "Obongi",
+      "🚰 Water": {
+        "phone": "+25677230060",
+        "email": "water@obongi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677230060",
+        "email": "power@obongi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677230060",
+        "email": "works@obongi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677230060",
+        "email": "health@obongi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999330",
+        "email": "dpc.obongi@upf.go.ug"
+      }
+    },
+    "N31": {
+      "name": "Omoro",
+      "🚰 Water": {
+        "phone": "+25677231050",
+        "email": "water@omoro.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677231050",
+        "email": "power@omoro.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677231050",
+        "email": "works@omoro.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677231050",
+        "email": "health@omoro.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999331",
+        "email": "dpc.omoro@upf.go.ug"
+      }
+    },
+    "N32": {
+      "name": "Otuke",
+      "🚰 Water": {
+        "phone": "+25677232050",
+        "email": "water@otuke.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677232050",
+        "email": "power@otuke.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677232050",
+        "email": "works@otuke.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677232050",
+        "email": "health@otuke.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999332",
+        "email": "dpc.otuke@upf.go.ug"
+      }
+    },
+    "N33": {
+      "name": "Oyam",
+      "🚰 Water": {
+        "phone": "+25677233040",
+        "email": "water@oyam.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677233040",
+        "email": "power@oyam.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677233040",
+        "email": "works@oyam.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677233040",
+        "email": "health@oyam.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999333",
+        "email": "dpc.oyam@upf.go.ug"
+      }
+    },
+    "N34": {
+      "name": "Pader",
+      "🚰 Water": {
+        "phone": "+25677234050",
+        "email": "water@pader.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677234050",
+        "email": "power@pader.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677234050",
+        "email": "works@pader.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677234050",
+        "email": "health@pader.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999334",
+        "email": "dpc.pader@upf.go.ug"
+      }
+    },
+    "N35": {
+      "name": "Pakwach",
+      "🚰 Water": {
+        "phone": "+25677235070",
+        "email": "water@pakwach.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677235070",
+        "email": "power@pakwach.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677235070",
+        "email": "works@pakwach.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677235070",
+        "email": "health@pakwach.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999335",
+        "email": "dpc.pakwach@upf.go.ug"
+      }
+    },
+    "N36": {
+      "name": "Pakwasi",
+      "🚰 Water": {
+        "phone": "+25677236070",
+        "email": "water@pakwasi.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677236070",
+        "email": "power@pakwasi.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677236070",
+        "email": "works@pakwasi.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677236070",
+        "email": "health@pakwasi.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999336",
+        "email": "dpc.pakwasi@upf.go.ug"
+      }
+    },
+    "N37": {
+      "name": "Terego",
+      "🚰 Water": {
+        "phone": "+25677237060",
+        "email": "water@terego.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677237060",
+        "email": "power@terego.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677237060",
+        "email": "works@terego.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677237060",
+        "email": "health@terego.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999337",
+        "email": "dpc.terego@upf.go.ug"
+      }
+    },
+    "N38": {
+      "name": "Yumbe",
+      "🚰 Water": {
+        "phone": "+25677238050",
+        "email": "water@yumbe.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677238050",
+        "email": "power@yumbe.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677238050",
+        "email": "works@yumbe.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677238050",
+        "email": "health@yumbe.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999338",
+        "email": "dpc.yumbe@upf.go.ug"
+      }
+    },
+    "N39": {
+      "name": "Zombo",
+      "🚰 Water": {
+        "phone": "+25677239050",
+        "email": "water@zombo.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+25677239050",
+        "email": "power@zombo.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+25677239050",
+        "email": "works@zombo.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+25677239050",
+        "email": "health@zombo.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999339",
+        "email": "dpc.zombo@upf.go.ug"
+      }
+    },
+    "DEFAULT": {
+      "🚰 Water": {
+        "phone": "+256700000000",
+        "email": "national.water.desk@government.go.ug"
+      },
+      "⚡ Power": {
+        "phone": "+256700000001",
+        "email": "national.power.desk@government.go.ug"
+      },
+      "🛣️ Roads": {
+        "phone": "+256700000002",
+        "email": "national.roads.desk@government.go.ug"
+      },
+      "🏥 Health": {
+        "phone": "+256700000003",
+        "email": "national.health.desk@government.go.ug"
+      },
+      "👮 Police": {
+        "phone": "+256701999999",
+        "email": "national.security.desk@upf.go.ug"
+      }
+    }
+  }
+}
