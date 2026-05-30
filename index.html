@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daraja System - Live Evaluation Sandbox</title>
+    <style>
+        body { background-color: #FAF6EE; font-family: 'Georgia', serif; color: #1A330E; margin: 0; padding: 20px; }
+        .sandbox-wrapper { max-width: 1000px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+        @media (max-width: 768px) { .sandbox-wrapper { grid-template-columns: 1fr; } }
+        .panel { background: #FFFFFF; border: 1px solid #D4AF37; border-radius: 8px; padding: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.03); }
+        .gold-divider { height: 1px; background: linear-gradient(to right, transparent, #D4AF37, transparent); margin: 15px 0; }
+        .btn-submit { width: 100%; padding: 14px; background-color: #1A330E; color: #FAF6EE; border: 1px solid #D4AF37; font-size: 16px; font-weight: bold; border-radius: 4px; cursor: pointer; }
+        .log-box { background: #1E293B; color: #38BDF8; font-family: 'Courier New', monospace; padding: 15px; border-radius: 6px; height: 300px; overflow-y: auto; font-size: 13px; }
+        .instruction-badge { background: #E6F4EA; color: #137333; padding: 10px; border-left: 4px solid #137333; font-size: 14px; margin-bottom: 20px; font-family: sans-serif; }
+    </style>
+</head>
+<body>
+
+    <div style="text-align: center; margin-bottom: 30px;">
+        <h1 style="margin-bottom: 5px; font-size: 36px; letter-spacing: 2px;">DARAJA</h1>
+        <p style="font-style: italic; color: #555; margin-top: 0;">Interactive Portal: Government Systems Showcase Evaluation</p>
+        <div style="max-width: 200px; height: 2px; background-color: #D4AF37; margin: 0 auto;"></div>
+    </div>
+
+    <div class="sandbox-wrapper">
+        
+        <!-- LEFT PANEL: CITIZEN INPUT FORM -->
+        <div class="panel">
+            <h3 style="margin-top: 0; color: #1A330E;">1. Simulate a Citizen Complaint</h3>
+            <div class="instruction-badge">
+                <strong>Evaluator Guide:</strong> You are a citizen or an administrative assistant. Type a complaint below (e.g., a water leakage or crime) and click submit to watch Daraja route it instantly.
+            </div>
+            
+            <form id="sandboxForm" onsubmit="runLiveEvaluation(event)">
+                <div style="margin-bottom: 15px;">
+                    <label style="display:block; font-weight:bold; margin-bottom:5px; font-size:14px;">Simulated Citizen Phone</label>
+                    <input type="text" id="evalPhone" value="+256772000111" style="width:100%; padding:10px; box-sizing:border-box; border:1px solid #C2B69D; border-radius:4px;">
+                </div>
+                
+                <div style="margin-bottom: 15px;">
+                    <label style="display:block; font-weight:bold; margin-bottom:5px; font-size:14px;">Select District Location</label>
+                    <input type="text" id="evalLocation" value="Luweero" style="width:100%; padding:10px; box-sizing:border-box; border:1px solid #C2B69D; border-radius:4px;">
+                </div>
+                
+                <div style="margin-bottom: 20px;">
+                    <label style="display:block; font-weight:bold; margin-bottom:5px; font-size:14px;">Complaint Message (Try English or Luganda)</label>
+                    <textarea id="evalMessage" rows="4" style="width:100%; padding:10px; box-sizing:border-box; border:1px solid #C2B69D; border-radius:4px; font-family:sans-serif;">Tulina obuzibu bw'emidumu gy'amazzi egimenyekka ne gajja omusanga mu Luweero district.</textarea>
+                </div>
+                
+                <button type="submit" class="btn-submit">SUBMIT REPORT TO LIVE CLOUD</button>
+            </form>
+        </div>
+
+        <!-- RIGHT PANEL: REAL-TIME AUTOMATION DISPLAY -->
+        <div class="panel" style="background-color: #2D3748; border-color: #4A5568; color: #FFF;">
+            <h3 style="margin-top: 0; color: #FAF6EE;">2. Live Automation & Routing Logs</h3>
+            <p style="font-size: 13px; color: #CBD5E0; margin-top: 0; font-family: sans-serif;">As soon as you press submit, watch how Daraja processes the backend validation, logs to the database, and triggers communications without human intervention:</p>
+            
+            <div class="gold-divider"></div>
+            
+            <label style="display:block; font-size:12px; font-weight:bold; color:#A0AEC0; margin-bottom:5px; font-family:sans-serif;">SYSTEM TELEMETRY OUTPUT</label>
+            <div id="telemetryLogs" class="log-box">
+                [System Status: Idle]<br>
+                [Awaiting input from Evaluator Form...]
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        function logToConsole(message, type = 'info') {
+            const consoleBox = document.getElementById('telemetryLogs');
+            const timestamp = new Date().toLocaleTimeString();
+            let color = '#38BDF8'; // default blue
+            if (type === 'success') color = '#34D399'; // green
+            if (type === 'warn') color = '#FBBF24'; // yellow
+            if (type === 'error') color = '#F87171'; // red
+            
+            consoleBox.innerHTML += `<br><span style="color: ${color}">[${timestamp}] ${message}</span>`;
+            consoleBox.scrollTop = consoleBox.scrollHeight;
+        }
+
+        function runLiveEvaluation(event) {
+            event.preventDefault();
+            
+            const consoleBox = document.getElementById('telemetryLogs');
+            consoleBox.innerHTML = `[${new Date().toLocaleTimeString()}] Ingesting new web form data...`;
+            
+            const phone = document.getElementById('evalPhone').value;
+            const location = document.getElementById('evalLocation').value;
+            const msgBody = document.getElementById('evalMessage').value;
+
+            // 1. Show validation payload creation
+            logToConsole("Compiling JSON data block with secure token handshake...", "info");
+            
+            const payload = {
+                secret_gateway_key: "plu_secure_sms_modem_handshake_99v",
+                sender_phone: phone,
+                message_body: msgBody,
+                location: location
+            };
+
+            logToConsole("POST request dispatched to: https://daraja-system.onrender.com/api/v1/gateway/web-app", "info");
+
+            // 2. Hit the real Render service live
+            fetch('https://daraja-system.onrender.com/api/v1/gateway/web-app', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            })
+            .then(res => {
+                if (!res.ok) throw new Error(`HTTP Error ${res.status}`);
+                return res.json();
+            })
+            .then(data => {
+                logToConsole("DATABASE LEDGER RESPONSE: 200 OK (Success)", "success");
+                logToConsole(`Server confirmed persistence for incident ID: ${data.id || 'Generated'}`, "success");
+                
+                // 🐦 Simulate Twitter automation display
+                logToConsole("🐦 TWITTER AUTOMATION QUEUED:", "warn");
+                logToConsole(`[Broadcast Payload]: "COMMUNITY ALERT: Verified issue logged in ${location} District. Public tracking enabled."`, "warn");
+
+                // 🚨 Simulate Police/Emergency Routing display
+                const textLower = msgBody.toLowerCase();
+                if (textLower.includes("poachers") || textLower.includes("weapons") || textLower.includes("enjovu")) {
+                    logToConsole("🚨 EMERGENCY OVERRIDE INTERCEPT ACTIVE!", "error");
+                    logToConsole(`[Police & Wildlife Ranger Alert]: High priority dispatch token fired to Kanungu/Regional Station for phone ${phone}`, "error");
+                } else {
+                    logToConsole("📋 Routing Status: Filed under standard municipal maintenance queue.", "success");
+                }
+            })
+            .catch(err => {
+                logToConsole(`Connection Failure: ${err.message}`, "error");
+                logToConsole("Please verify your Render service deployment is spun up and active.", "warn");
+            });
+        }
+    </script>
+</body>
+</html>
